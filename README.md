@@ -26,7 +26,9 @@ go build -o kube-apiserver.exe
 
 ### 5,结果
 
-图片
+![image](https://github.com/Mountains-and-rivers/k8s.io/blob/main/image/1.png)
+
+![image](https://github.com/Mountains-and-rivers/k8s.io/blob/main/image/2.png)
 
 
 
