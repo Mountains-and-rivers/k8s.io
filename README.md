@@ -9,7 +9,7 @@ go version go1.17.5 windows/amd64 #小于1.17 会报错，有个json 更新
 ### 2，Kubernetes 版本
 
 ```
-1.22  master
+1.23  master
 ```
 
 ### 3, 编译
